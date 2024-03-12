@@ -27,9 +27,4 @@ console.secondary("This is a secondary message")
 
 ## Contributing
 
-To clone the repository locally, use the following command:
-```bash
-git clone https://github.com/sikandar1838/pyconsole.git
-```
-
-If you want to contribute to this project, feel free to fork the repository, make changes, and submit a pull request.
+If you want to contribute to this project, feel free to fork the repository, make changes, and submit a pull request. Please make sure to review the [Contribution Guidelines](CONTRIBUTING.md) before contributing.

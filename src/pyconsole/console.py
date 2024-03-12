@@ -2,7 +2,7 @@
 A module providing a simple console utility for printing messages with color using colorama.
 """
 
-from colorama import init, Fore, Style
+from colorama import init, Fore
 
 
 class Console:
